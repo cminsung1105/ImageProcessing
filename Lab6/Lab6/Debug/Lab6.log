@@ -1,0 +1,4 @@
+﻿  lab6.cpp
+c:\users\cmins\onedrive\uci\sophomore\winter 2018\ics 51\lab\lab6\lab6.cpp(186): warning C4102: 'CONDITION1': unreferenced label
+c:\users\cmins\onedrive\uci\sophomore\winter 2018\ics 51\lab\lab6\lab6.cpp(316): warning C4102: 'NINE': unreferenced label
+  Lab6.vcxproj -> C:\Users\cmins\OneDrive\UCI\SOPHOMORE\WINTER 2018\ICS 51\LAB\Lab6\Debug\Lab6.exe
